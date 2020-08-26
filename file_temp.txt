@@ -1,0 +1,6 @@
+THis is a new file
+Updated file locally
+Updated file in GitHub
+
+Updated file locally again
+Updated file in GitHub again
